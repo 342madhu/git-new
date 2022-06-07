@@ -1,2 +1,8 @@
 my name is madhu
 you are mine
+
+
+
+
+
+Download Link: Click Here. Once the package is downloaded, run the executable file: Choose the valid path where you want to install the Git Bash: Select the appropriate componenets you want
