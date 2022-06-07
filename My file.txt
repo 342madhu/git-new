@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 lllllll
 ll
 
@@ -10,3 +11,6 @@ llllllllll
 
 
 llllllllllllllllll
+=======
+Git for Windows Tools & Features Git for Windows focuses on offering a lightweight, native set of tools that bring the full feature set of the Git SCM to
+>>>>>>> a5b365b19031fc923d4d246ab34acad6f401ad86
